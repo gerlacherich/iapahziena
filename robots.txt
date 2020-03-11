@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phahdahma.project-stears.de/sitemap.xml
